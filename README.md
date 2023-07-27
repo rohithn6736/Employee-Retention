@@ -9,7 +9,7 @@ Our client is the HR department at a large software company.
 * Once these employees are identified, HR can be more proactive in reaching out to them before it's too late.
 * For this initiative, they only care about permanent (non-temp) employees.
 
-## 1.2 Current approach
+## Current approach
 Currently, their employee retention process is very retroactive. Once an employee leaves, he or she takes an "exit interview" and shares reasons for leaving. HR then tries to learn insights from that interview and make changes around the company accordingly.
 
 This suffers from 3 main problems:
